@@ -61,8 +61,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.63697434"
-     inkscape:cx="315.55431"
-     inkscape:cy="674.28147"
+     inkscape:cx="398.76018"
+     inkscape:cy="514.14944"
      inkscape:window-width="1680"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -73,58 +73,6 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g54">
-    <path
-       style="fill:#800000;stroke-width:1.33333"
-       d="m 34.763411,199.8029 v -14.71325 l 33,0.35663 32.999999,0.35662 v 14 14 l -32.999999,0.35663 -33,0.35663 z"
-       id="path4187" />
-    <path
-       style="fill:#501616;stroke-width:1.33333"
-       d="M 35.096746,249.13624 V 235.8029 h 32.666667 32.666667 v 13.33334 13.33333 H 67.763413 35.096746 Z"
-       id="path4143" />
-    <path
-       style="fill:#c8ab37;stroke-width:1.33333"
-       d="m 34.430081,301.8029 v -14 h 33.333334 33.333335 v 14 14 H 67.763415 34.430081 Z"
-       id="path4123" />
-    <path
-       style="fill:#808000;stroke-width:1.33333"
-       d="m 34.430081,354.46957 v -13.33334 h 33.333334 33.333335 v 13.33334 13.33333 H 67.763415 34.430081 Z"
-       id="path4103" />
-    <path
-       style="fill:#000080;stroke-width:1.33333"
-       d="m 34.430081,407.13623 v -14 h 33.333334 33.333335 v 14 14 H 67.763415 34.430081 Z"
-       id="path4061" />
-    <path
-       style="fill:#800000;stroke-width:1.33333"
-       d="M 1175.0968,225.54791 V 4.2145822 h 55.3333 55.3333 V 225.54791 446.88124 h -55.3333 -55.3333 z"
-       id="path4037" />
-    <path
-       style="fill:#000080;stroke-width:1.33333"
-       d="m 970.66441,450.00444 c -0.49553,-0.49554 -0.90097,-32.00098 -0.90097,-70.0121 v -69.1111 h 68.67856 68.6786 l -0.3453,69.66666 -0.3452,69.66667 -67.4324,0.34543 c -37.0877,0.18998 -67.83774,-0.06 -68.33329,-0.55556 z"
-       id="path4035" />
-    <path
-       style="fill:#808000;stroke-width:1.33333"
-       d="m 532.43009,642.21456 v -55.33333 h 118.66667 118.66667 v 55.33333 55.33334 H 651.09676 532.43009 Z"
-       id="path4033" />
-    <path
-       style="fill:#c8ab37;stroke-width:1.33333"
-       d="m 36.430079,625.5479 v -72 h 68.000001 68 v 72 72 h -68 -68.000001 z"
-       id="path4031" />
-    <path
-       style="fill:#552200;stroke-width:1.33333"
-       d="M 1173.7634,581.5479 V 462.88124 h 55.3334 55.3333 V 581.5479 700.21456 h -55.3333 -55.3334 z"
-       id="path4029" />
-    <path
-       style="fill:#908f90;stroke-width:1.33333"
-       d="M 1048.4301,1024.8812 V 909.54789 h 108 108 v 115.33331 115.3333 h -108 -108 z"
-       id="path4027" />
-    <path
-       style="fill:#908f90;stroke-width:1.33333"
-       d="M 541.76343,1024.8812 V 909.54789 h 108 108 v 115.33331 115.3333 h -108 -108 z"
-       id="path4025" />
-    <path
-       style="fill:#908f90;stroke-width:1.33333"
-       d="M 21.763412,1024.8812 V 909.54789 H 129.76341 237.76342 v 115.33331 115.3333 H 129.76341 21.763412 Z"
-       id="path4021" />
     <g
        id="g1775"
        transform="translate(149.14258,-91.055473)">
@@ -190,16 +138,17 @@
          sodipodi:nodetypes="ccc" />
     </g>
     <g
-       id="g4879">
+       id="g4879"
+       transform="translate(1.569922)">
       <g
          aria-label="P"
          id="text4835"
-         style="font-size:40px;line-height:1.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-size:40px;line-height:1.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          transform="translate(-480.39611,91.840434)">
         <path
            id="path4841"
-           style="fill:#90ec2f;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           d="M 409.06799 397.72011 L 409.06799 423.69277 L 393.73791 413.92714 L 393.73791 418.58144 L 408.92736 427.98769 L 393.73791 437.24941 L 393.73791 442.24746 L 409.06799 432.4916 L 409.06799 446.88418 L 412.66759 446.88418 L 412.66759 430.97793 L 428.72228 441.41347 L 428.72228 436.75918 L 415.00353 428.13613 L 428.72228 419.56191 L 428.72228 414.66152 L 412.66759 425.08144 L 412.66759 415.15957 L 415.94689 415.15957 C 418.80022 415.15957 421.05333 414.7336 422.70666 413.88027 C 424.38666 413.02694 425.57387 411.91996 426.2672 410.55996 C 426.9872 409.17329 427.34728 407.69188 427.34728 406.11855 C 427.34728 403.45188 426.4934 401.386 424.78674 399.91933 C 423.08007 398.45266 420.35991 397.72011 416.62658 397.72011 L 409.06799 397.72011 z M 412.66759 400.80019 L 416.30822 400.80019 C 418.84155 400.80019 420.69348 401.2529 421.86681 402.15957 C 423.04014 403.06624 423.62658 404.43871 423.62658 406.27871 C 423.62658 408.38537 422.95991 409.87918 421.62658 410.75918 C 420.29325 411.63917 418.2665 412.07949 415.5465 412.07949 L 412.66759 412.07949 L 412.66759 400.80019 z " />
+           style="fill:#90ec2f;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 409.06799,397.72011 v 25.97266 l -15.33008,-9.76563 v 4.6543 l 15.18945,9.40625 -15.18945,9.26172 v 4.99805 l 15.33008,-9.75586 v 14.39258 h 3.5996 v -15.90625 l 16.05469,10.43554 v -4.65429 l -13.71875,-8.62305 13.71875,-8.57422 v -4.90039 l -16.05469,10.41992 v -9.92187 h 3.2793 c 2.85333,0 5.10644,-0.42597 6.75977,-1.2793 1.68,-0.85333 2.86721,-1.96031 3.56054,-3.32031 0.72,-1.38667 1.08008,-2.86808 1.08008,-4.44141 0,-2.66667 -0.85388,-4.73255 -2.56054,-6.19922 -1.70667,-1.46667 -4.42683,-2.19922 -8.16016,-2.19922 z m 3.5996,3.08008 h 3.64063 c 2.53333,0 4.38526,0.45271 5.55859,1.35938 1.17333,0.90667 1.75977,2.27914 1.75977,4.11914 0,2.10666 -0.66667,3.60047 -2,4.48047 -1.33333,0.87999 -3.36008,1.32031 -6.08008,1.32031 h -2.87891 z" />
       </g>
       <g
          aria-label="X"
@@ -207,56 +156,6 @@
          id="text4839"
          style="font-size:48.9972px;line-height:1.25;stroke:#000000;stroke-width:1.22493;stroke-linejoin:round" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-       x="107.48716"
-       y="205.10423"
-       id="text5283"><tspan
-         sodipodi:role="line"
-         id="tspan5281"
-         x="107.48716"
-         y="205.10423">: Server Seating</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-       x="107.48716"
-       y="257.09357"
-       id="text5287"><tspan
-         sodipodi:role="line"
-         id="tspan5285"
-         x="107.48716"
-         y="257.09357">: Credence Table</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-       x="107.48716"
-       y="309.76022"
-       id="text5291"><tspan
-         sodipodi:role="line"
-         id="tspan5289"
-         x="107.48716"
-         y="309.76022">: Ambo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-       x="107.48716"
-       y="362.42688"
-       id="text5295"><tspan
-         sodipodi:role="line"
-         id="tspan5293"
-         x="107.48716"
-         y="362.42688">: Altar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-       x="107.48716"
-       y="415.09354"
-       id="text5299"><tspan
-         sodipodi:role="line"
-         id="tspan5297"
-         x="107.48716"
-         y="415.09354">: Priest's Chair</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -267,5 +166,141 @@
          id="tspan5301"
          x="314.159"
          y="373.54947" /></text>
+    <g
+       id="g13307">
+      <path
+         style="fill:#808000;stroke-width:1.33333"
+         d="m 532.43009,642.21456 v -55.33333 h 118.66667 118.66667 v 55.33333 55.33334 H 651.09676 532.43009 Z"
+         id="path4033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="606.75677"
+         y="657.21454"
+         id="text13055"><tspan
+           sodipodi:role="line"
+           id="tspan13053"
+           x="606.75677"
+           y="657.21454">Altar</tspan></text>
+    </g>
+    <g
+       id="g13302"
+       transform="translate(133.44337,-9.4195317)">
+      <path
+         style="fill:#c8ab37;stroke-width:1.33333"
+         d="m 36.430079,625.5479 v -72 h 68.000001 68 v 72 72 h -68 -68.000001 z"
+         id="path4031" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="49.630096"
+         y="640.54791"
+         id="text13059"><tspan
+           sodipodi:role="line"
+           id="tspan13057"
+           x="49.630096"
+           y="640.54791">Ambo</tspan></text>
+    </g>
+    <g
+       id="g13323">
+      <path
+         style="fill:#000080;stroke-width:1.33333;stroke:#ffffff"
+         d="m 970.66441,450.00444 c -0.49553,-0.49554 -0.90097,-32.00098 -0.90097,-70.0121 v -69.1111 h 68.67856 68.6786 l -0.3453,69.66666 -0.3452,69.66667 -67.4324,0.34543 c -37.0877,0.18998 -67.83774,-0.06 -68.33329,-0.55556 z"
+         id="path4035" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+         x="976.83038"
+         y="374.08575"
+         id="text13063"><tspan
+           sodipodi:role="line"
+           id="tspan13061"
+           x="976.83038"
+           y="374.08575">Presider's</tspan><tspan
+           sodipodi:role="line"
+           x="976.83038"
+           y="407.41913"
+           id="tspan13065">Chair</tspan></text>
+    </g>
+    <g
+       id="g13334">
+      <path
+         style="fill:#800000;stroke-width:1.33333"
+         d="M 1175.0968,225.54791 V 4.2145822 h 55.3333 55.3333 V 225.54791 446.88124 h -55.3333 -55.3333 z"
+         id="path4037" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="90.287964"
+         y="-1220.4901"
+         id="text13069"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan13067"
+           x="90.287964"
+           y="-1220.4901">Server Seating</tspan></text>
+    </g>
+    <g
+       id="g13329">
+      <path
+         style="fill:#552200;stroke-width:1.33333"
+         d="M 1173.7634,581.5479 V 462.88124 h 55.3334 55.3333 V 581.5479 700.21456 h -55.3333 -55.3334 z"
+         id="path4029" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="493.76794"
+         y="-1239.0968"
+         id="text13073"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan13071"
+           x="493.76794"
+           y="-1239.0968">Credence</tspan><tspan
+           sodipodi:role="line"
+           x="493.76794"
+           y="-1189.0968"
+           id="tspan13075">Table</tspan></text>
+    </g>
+    <g
+       id="g13312">
+      <rect
+         style="fill:#aa4400;stroke:#552200;stroke-width:3.19126;stroke-linecap:round;stroke-linejoin:round"
+         id="rect13131"
+         width="302.80365"
+         height="120.69273"
+         x="204.07645"
+         y="1036.244" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="306.15833"
+         y="1110.6704"
+         id="text13293"><tspan
+           sodipodi:role="line"
+           id="tspan13291"
+           x="306.15833"
+           y="1110.6704">Pews</tspan></text>
+    </g>
+    <g
+       id="g13317">
+      <rect
+         style="fill:#aa4400;stroke:#552200;stroke-width:3.19126;stroke-linecap:round;stroke-linejoin:round"
+         id="rect13289"
+         width="302.80365"
+         height="120.69273"
+         x="803.78668"
+         y="1036.244" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="905.86853"
+         y="1110.6704"
+         id="text13297"><tspan
+           sodipodi:role="line"
+           id="tspan13295"
+           x="905.86853"
+           y="1110.6704">Pews</tspan></text>
+    </g>
   </g>
 </svg>
