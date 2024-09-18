@@ -140,8 +140,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.63697435"
-     inkscape:cx="237.05821"
-     inkscape:cy="633.4635"
+     inkscape:cx="365.79181"
+     inkscape:cy="592.64553"
      inkscape:window-width="1680"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -255,7 +255,10 @@
          id="path4795"
          sodipodi:nodetypes="ccc" /></g><g
        id="g4829"
-       transform="rotate(90,-78.30858,1036.824)"><g
+       transform="rotate(90,-78.30858,1036.824)"
+       inkscape:export-filename="Images/GospelProcession.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><g
          id="g4825"
          transform="matrix(1.291578,0,0,1.291578,121.35773,-225.83204)"
          style="stroke-width:0.774247;stroke-dasharray:none"><g
@@ -409,11 +412,11 @@
          x="396.9935"
          y="696.03424">3</tspan></text><path
        style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
-       d="m 552.55209,757.03409 c 0,0 -148.41922,-54.59546 -226.28678,-55.13774 -77.86756,-0.54228 -130.52153,9.22907 -130.52153,9.22907"
+       d="M 552.55209,757.03409 C 492.0933,731.37613 482.16772,732.48809 394.45212,727.77696"
        id="path4977"
-       sodipodi:nodetypes="czc" /><path
+       sodipodi:nodetypes="cc" /><path
        style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
-       d="m 755.24102,772.30616 c 0,0 -49.14164,20.30692 -186.61158,13.40689 C 471.43312,780.83447 371.0284,748.09748 371.0284,748.09748"
+       d="m 755.99142,772.30616 c 0,0 -72.82721,20.30692 -276.55569,13.40689 -144.04356,-4.87858 -292.84192,-37.61557 -292.84192,-37.61557"
        id="path4979"
        sodipodi:nodetypes="csc" /><g
        id="g4813"
