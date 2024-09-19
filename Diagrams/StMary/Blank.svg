@@ -9,7 +9,7 @@
    viewBox="0 0 1310.6667 1141.3333"
    sodipodi:docname="Blank.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="EntranceProcession.png"
+   inkscape:export-filename="Images/Blank.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -61,8 +61,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.63697434"
-     inkscape:cx="398.76018"
-     inkscape:cy="514.14944"
+     inkscape:cx="339.10314"
+     inkscape:cy="718.23929"
      inkscape:window-width="1680"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -73,9 +73,17 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g54">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m -464.73835,702.12689 23.80297,-18.43785 23.80296,18.43785"
+       id="path1771"
+       sodipodi:nodetypes="ccc" />
     <g
        id="g1775"
-       transform="translate(149.14258,-91.055473)">
+       transform="translate(990.09322,96.584812)"
+       inkscape:export-filename="../Cross.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          sodipodi:type="star"
          style="fill:#ffca00;fill-opacity:1;stroke:#000000;stroke-width:4.58023;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -98,27 +106,26 @@
          id="path1769"
          sodipodi:nodetypes="ccc" />
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m -464.73835,702.12689 23.80297,-18.43785 23.80296,18.43785"
-       id="path1771"
-       sodipodi:nodetypes="ccc" />
     <g
-       id="g3921">
+       id="g3921"
+       transform="translate(1229.1854,27.473636)"
+       inkscape:export-filename="../Candle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g3901"
          transform="matrix(1.291578,0,0,1.291578,121.35773,-225.83204)"
-         style="stroke-width:0.7742467;stroke-dasharray:none">
+         style="stroke-width:0.774247;stroke-dasharray:none">
         <g
            id="g1976"
-           style="stroke-width:0.7742467;stroke-dasharray:none">
+           style="stroke-width:0.774247;stroke-dasharray:none">
           <path
              id="ellipse1964"
-             style="fill:#fffddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.7742467;stroke-dasharray:none"
+             style="fill:#fffddc;stroke:#000000;stroke-width:0.774247;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
              d="m -411.29492,784.33984 c 0.12996,4.62489 -0.2468,9.54558 0,14.03321 2.76543,8.79312 20.06754,6.62806 20.25411,-0.53516 0.2118,-4.27325 0,-9.04105 0,-13.49805 z"
              sodipodi:nodetypes="ccccc" />
           <ellipse
-             style="fill:#fffddc;fill-opacity:1;stroke:#000000;stroke-width:0.7742467;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="fill:#fffddc;fill-opacity:1;stroke:#000000;stroke-width:0.774247;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="path1835"
              ry="5.9937019"
              rx="10.127289"
@@ -127,7 +134,7 @@
         </g>
         <path
            id="path2030"
-           style="fill:url(#linearGradient2112);stroke:#000000;stroke-width:0.7742467;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           style="fill:url(#linearGradient2112);stroke:#000000;stroke-width:0.774247;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
            d="m -397.73272,779.41177 c -0.034,2.29879 -1.44506,4.0114 -3.10316,4.0114 -1.65809,0 -3.78886,-2.0025 -3.00224,-4.16277 0.83256,-2.28643 2.35634,-5.68989 3.00224,-4.16278 0.40015,0.94608 1.57854,2.331 2.22382,1.37062 0.60613,-0.90211 0.90457,1.23897 0.87934,2.94353 z"
            sodipodi:nodetypes="ssssss" />
       </g>
@@ -139,7 +146,10 @@
     </g>
     <g
        id="g4879"
-       transform="translate(1.569922)">
+       transform="translate(532.14008,301.83376)"
+       inkscape:export-filename="../Priest.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          aria-label="P"
          id="text4835"
@@ -302,5 +312,45 @@
            x="905.86853"
            y="1110.6704">Pews</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="426.24069"
+       y="889.25684"
+       id="text948"><tspan
+         sodipodi:role="line"
+         id="tspan946"
+         x="426.24069"
+         y="889.25684">Priest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="597.45135"
+       y="889.63019"
+       id="text952"><tspan
+         sodipodi:role="line"
+         id="tspan950"
+         x="597.45135"
+         y="889.63019">Crucifer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="742.72858"
+       y="889.56354"
+       id="text1006"><tspan
+         sodipodi:role="line"
+         id="tspan1004"
+         x="742.72858"
+         y="889.56354">Candle-bearer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="423.17117"
+       y="952.94263"
+       id="text1056"><tspan
+         sodipodi:role="line"
+         id="tspan1058"
+         x="423.17117"
+         y="952.94263">Arrows show which direction to face</tspan></text>
   </g>
 </svg>
