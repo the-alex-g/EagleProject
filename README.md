@@ -7,3 +7,6 @@ Above, you should be able to see a bunch of folders and files. You can navigate 
 
 All the images are in PNG and SVG formats, for use in the documents and for editing in Inkscape, respectively. They can be found in the
 "Diagrams" and "Glossary" folders.
+
+The "ShortManuals" folder should have all the final server manuals in it. "LongManuals" has a bunch of really long and not-user-friendly
+server manuals that I worked on. "OldServerDocs" has all my original prototype documents. "IncenseManual" has all the incense manuals.
